@@ -1,0 +1,16 @@
+{
+  "bad_window_code": "E_BAD_WINDOW",
+  "window": 4,
+  "now": 10,
+  "threshold": 3,
+  "budget": 2,
+  "events": [
+    {"key": "a", "at": 6},
+    {"key": "a", "at": 8},
+    {"key": "b", "at": 9},
+    {"key": "c", "at": 1},
+    {"key": "a", "at": 9},
+    {"key": "b", "at": 7},
+    {"key": "d", "at": 10}
+  ]
+}
